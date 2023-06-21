@@ -7,3 +7,4 @@
 ## Section 3: Creating a Simple Web Page
 * Creating a Django App
 * python manage.py startapp website
+* Adding a Page
