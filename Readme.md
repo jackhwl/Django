@@ -23,3 +23,5 @@
 * python manage.py migrate
 * python manage.py dbshell
 * Creating and Running Migrations
+* python manage.py createsuperuser 
+* The Admin Interface
