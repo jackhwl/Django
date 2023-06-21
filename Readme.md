@@ -16,3 +16,5 @@
 * sqlite> .tables
 * sqlite> select * from django_migrations;
 * sqlite> .exit
+* python manage.py startapp meetings
+* Creating a Model Class
