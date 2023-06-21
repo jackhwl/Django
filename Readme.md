@@ -8,3 +8,11 @@
 * Creating a Django App
 * python manage.py startapp website
 * Adding a Page
+## Section 4: Setting up a Data Model
+* Running Initial Migrations 
+* python manage.py showmigrations
+* python manage.py migrate
+* python manage.py dbshell
+* sqlite> .tables
+* sqlite> select * from django_migrations;
+* sqlite> .exit
