@@ -18,3 +18,8 @@
 * sqlite> .exit
 * python manage.py startapp meetings
 * Creating a Model Class
+* python manage.py makemigrations 
+* python manage.py sqlmigrate meetings 0001
+* python manage.py migrate
+* python manage.py dbshell
+* Creating and Running Migrations
